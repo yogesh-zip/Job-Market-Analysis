@@ -1,3 +1,3 @@
 # Job Market Analysis
 
-In this Project I analyse the Data Science Job Market Across USA
+End-to-end job market analysis using MySQL (12 SQL queries) and Power BI, exploring salary trends, state-wise demand, and skills insights from Glassdoor data.
